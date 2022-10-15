@@ -1,2 +1,3 @@
 ## Task 1 -- > Read Git Hub Tutorial
-## Task 2 --> Create pull request & merge it
+## Task 2 -->  Create a repository
+## Task 3 ---> Clone and create pull request
